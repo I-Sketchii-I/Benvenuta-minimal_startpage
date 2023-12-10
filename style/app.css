@@ -7,10 +7,10 @@
 /* --main-fg:#b4befe; */
 /* --main-fg2:#cba6f7; */
 /* rosepine */
---main-bg:#191724;
---main-bg2:#1f1d2e;
---main-fg:#e0def4;
---main-fg2:#eb6f92;
+/* --main-bg:#191724;  */
+/* --main-bg2:#1f1d2e; */
+/* --main-fg:#e0def4; */
+/* --main-fg2:#eb6f92; */
 /* dracula */
 /* --main-bg:#282a36; */
 /* --main-bg2:#44475a; */
@@ -32,10 +32,10 @@
 /* --main-fg:#eceff4; */
 /* --main-fg2:#88c0d0; */
 /* Decay-Green */ 
-/* --main-bg:#0f0f0f; */
-/* --main-bg2:#1a1a1a; */
-/* --main-fg:#b4b4b4; */
-/* --main-fg2:#00ff00; */
+--main-bg:#0f0f0f;
+--main-bg2:#1a1a1a;
+--main-fg:#b4b4b4;
+--main-fg2:#00ff00;
 };
 
 * {
